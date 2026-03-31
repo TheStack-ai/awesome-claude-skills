@@ -127,12 +127,14 @@ Skills for working with complex file formats:
 | **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create animation-rich HTML presentations — from scratch or by converting PowerPoint files |
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 | **[shadcn/ui](https://ui.shadcn.com/docs/skills)** | Give Claude Code context on shadcn components as well as pattern enforcement |
+| **[swing-skills](https://github.com/TheStack-ai/swing-skills)** | 6 cognitive firewalls for Claude Code agents — hallucination guard, scope lock, confirmation gate, rollback shield, bias firewall, and context validator |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
 ### Tools
 
 - **[yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Convert documentation websites into Claude Skills
+- **[pulser](https://github.com/TheStack-ai/pulser)** - Diagnostic CLI that scans SKILL.md files against 8 rules derived from Anthropic's skill-writing principles, with auto-fix and rollback
 
 ## ✏️ Creating Your First Skill
 
